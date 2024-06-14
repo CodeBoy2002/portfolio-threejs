@@ -169,9 +169,9 @@ export const projects = [
     {
         iconUrl: gochat,
         theme: 'btn-back-yellow',
-        name: 'Online Char Application',
+        name: 'Online Chat Application',
         description: 'This real-time chat application, built with the MERN stack (MongoDB, Express.js, React, Node.js), features secure JWT authentication for user login and registration. The responsive frontend is crafted using Tailwind CSS and DaisyUI, while Socket.IO enables seamless real-time communication between users.',
         link: 'https://github.com/CodeBoy2002/chatappmern',
-        web_link: 'https://chatappmern-i1il.onrender.com/',
+        web_link: 'https://chatappmern-i1il.onrender.com',
     }
 ];
