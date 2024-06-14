@@ -23,7 +23,8 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    gochat
 } from "../assets/icons";
 
 export const skills = [

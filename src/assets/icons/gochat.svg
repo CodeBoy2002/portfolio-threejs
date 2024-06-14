@@ -1,0 +1,9 @@
+<svg width="30" height="26" viewBox="0 0 30 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.5 0C6.3585 0 3 3.3585 3 7.5C3 9.5105 3.7735 11.314 5.067 12.567L5 13L1.5 16.5L5 20H9L10.433 21.433C11.686 22.7265 13.4895 23.5 15.5 23.5C19.6415 23.5 23 20.1415 23 16C23 11.8585 19.6415 8.5 15.5 8.5H15C13.757 8.5 12.5 7.243 12.5 6V4.5C12.5 2.5 11 1 10.5 0Z" fill="url(#chat_icon_linear_gradient)"/>
+<defs>
+<linearGradient id="chat_icon_linear_gradient" x1="5" y1="0" x2="20" y2="23.5" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#4A90E2"/>
+<stop offset="1" stop-color="#9013FE"/>
+</linearGradient>
+</defs>
+</svg>
