@@ -164,5 +164,13 @@ export const projects = [
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
         link: 'https://github.com/CodeBoy2002/sumz_openai',
         web_link: 'https://deepsumarizer.netlify.app/',
+    },
+    {
+        iconUrl: gochat,
+        theme: 'btn-back-yellow',
+        name: 'Online Char Application',
+        description: 'This real-time chat application, built with the MERN stack (MongoDB, Express.js, React, Node.js), features secure JWT authentication for user login and registration. The responsive frontend is crafted using Tailwind CSS and DaisyUI, while Socket.IO enables seamless real-time communication between users.',
+        link: 'https://github.com/CodeBoy2002/chatappmern',
+        web_link: 'https://chatappmern-i1il.onrender.com/',
     }
 ];
